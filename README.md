@@ -71,7 +71,7 @@ that for Linux and macOS platforms you would need to run this program with escal
 ## Your Contribution?
 
 Want to contribute? Great!
-Find the contact form over at sonicthehedgehog.app/contact
+Find me on Mastodon (sonic2k at oldbytes.space) or here
 
 ## License
 
